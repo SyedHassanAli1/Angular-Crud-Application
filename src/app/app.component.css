@@ -1,0 +1,40 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+[mat-button]:not(:hover) {
+  color: #bfbfbd;
+  
+}
+
+.mat-icon-button {
+  margin-left: -7px;
+}
+
+.mat-toolbar {
+  background-color: #0c54a3;
+  color: #fff;
+}
+
+/* .mat-toolbar .span{
+  background-color: #0c54a3;
+} */
+
+/* .icon{
+  width: 35px;
+  height: 35px;
+} */

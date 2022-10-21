@@ -1,0 +1,95 @@
+{
+  "productList": [
+    {
+      "productName": "Asus ROG Ultimate",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 1368,
+      "comment": "The Phone is made for hardcore gamers in the Philippines",
+      "date": "2022-09-19T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "CA Power BAT",
+      "category": "Sports",
+      "freshness": "Second Hand",
+      "price": 149.99,
+      "comment": "CA Power is specially made from handcrafted English Willow.",
+      "date": "2022-09-02T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Brussels sprout",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 3.87,
+      "comment": "Frozen Brussel sprouts, on the other hand, can cost $1.50 to $5 per bag",
+      "date": "2022-09-27T19:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Kookaburra Wheelie Pro",
+      "category": "Sports",
+      "freshness": "Second Hand",
+      "price": 774.99,
+      "comment": "Kookaburra cricket bags an obvious choice for any progressive player",
+      "date": "2019-10-07T19:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "MacBook Pro",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 899,
+      "comment": "The MacBook Pro 13-inch really benefits from the improved internals",
+      "date": "2021-12-16T19:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Spinach",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2.55,
+      "comment": "Organic spinach is going to cost anywhere from $7 to $10",
+      "date": "2022-09-22T19:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Blackcurrant",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 4.66,
+      "comment": "The blackcurrant, also known as black currant or cassis",
+      "date": "2022-09-25T19:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Beats Solo Pro",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 299,
+      "comment": "The beats solo pro are decent for neutral sounds",
+      "date": "2022-09-23T19:00:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 20000,
+      "comment": "Creative features",
+      "date": "2022-10-03T19:00:00.000Z",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

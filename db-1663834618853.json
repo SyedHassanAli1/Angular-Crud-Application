@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Mobile",
+      "freshness": "Second Hand",
+      "price": 50000,
+      "comment": "This is latest mobile",
+      "date": "2022-09-20T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Lenovo",
+      "category": "Laptop",
+      "freshness": "Second Hand",
+      "price": 150000,
+      "comment": "Imported from USA",
+      "date": "2022-09-22T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung",
+      "category": "Mobile",
+      "freshness": "Refurbished",
+      "price": 20000,
+      "comment": "Screen panel repaired",
+      "date": "2022-09-15T19:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
