@@ -1,5 +1,7 @@
 # Code
 
+This project is tested with BrowserStack.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
